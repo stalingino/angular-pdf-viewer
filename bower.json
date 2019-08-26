@@ -1,12 +1,12 @@
 {
   "name": "sg-ng-pdf-viewer",
   "description": "",
-  "main": "js/angular-pdf-viewer.js",
+  "main": "js/sg-ng-pdf-viewer.js",
   "authors": [
     "Stalin Solomon <stalin.solomon@dvara.com>"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/stalingino/angular-pdf-viewer",
+  "homepage": "https://github.com/stalingino/sg-ng-pdf-viewer",
   "ignore": [
     "**/.*",
     "node_modules",
