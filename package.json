@@ -1,6 +1,6 @@
 {
     "name": "sg-ng-pdf-viewer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "js/angular-pdf-viewer.js",
     "files": [
         "css/angular-pdf-viewer.css",
