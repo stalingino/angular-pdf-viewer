@@ -1,8 +1,8 @@
 {
   "name": "sg-ng-pdf-viewer",
   "description": "",
-  "version": "2.0.1",
-  "main": "js/sg-ng-pdf-viewer.js",
+  "version": "2.0.2",
+  "main": "js/angular-pdf-viewer.js",
   "authors": [
     "Stalin Solomon <stalin.solomon@dvara.com>"
   ],
