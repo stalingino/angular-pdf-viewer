@@ -877,7 +877,10 @@
 			}
 
 			this.viewer.highlightSearchResult(prevHighlightID);
-		}	
+		},
+		getTitle: function () {
+			return this.viewer.pdf.info.get('Title');
+		}
 	};
 
 	angular.module("angular-pdf-viewer", []).
