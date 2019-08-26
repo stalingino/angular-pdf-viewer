@@ -1,0 +1,14 @@
+{
+    "name": "sg-ng-pdf-viewer",
+    "version": "1.0.0",
+    "main": "js/angular-pdf-viewer.js",
+    "files": [
+        "css/angular-pdf-viewer.css",
+        "js/angular-pdf-viewer.js"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/stalingino/angular-pdf-viewer.git"
+    },
+    "license": "Apache-2.0"
+  }
